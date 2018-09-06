@@ -14,5 +14,10 @@ public class SampleService {
 
     public void hello() {
         LOG.info("Hello World!");
+        LOG.info("Hello World!");
+        LOG.info("Hello World!");
+        LOG.info("Hello World!");
+        LOG.info("Hello World!");
+
     }
 }

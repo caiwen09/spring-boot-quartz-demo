@@ -16,4 +16,5 @@ public class SampleJob implements Job {
     public void execute(JobExecutionContext jobExecutionContext) {
         service.hello();
     }
+
 }
